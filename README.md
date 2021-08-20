@@ -1,1 +1,2 @@
 # pir
+PIR-sensor control
